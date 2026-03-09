@@ -29,8 +29,3 @@ Template literals are strings defined with backticks (`) instead of quotes. it's
 Features:
 - They allow multi-line strings without special characters.
 - They allow string interpolation using the ${expression} syntax to insert variables directly.
-
-
-AUTHOR INFORMATION
-Name: Ali Ahmed
-Profession: AI Powered Web Developer.
